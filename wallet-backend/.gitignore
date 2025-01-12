@@ -1,2 +1,6 @@
-nodemodules
-/.env
+node_modules
+package-lock.json
+dist
+.env
+.DS_Store
+*.log
