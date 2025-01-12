@@ -1,0 +1,7 @@
+{"level":"info","message":"MongoDB Connected...","timestamp":"2025-01-12T10:47:43.983Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-01-12T10:47:43.988Z"}
+{"level":"info","message":"MongoDB Connected...","timestamp":"2025-01-12T10:49:27.937Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-01-12T10:49:27.942Z"}
+{"level":"info","message":"MongoDB Connected...","timestamp":"2025-01-12T11:18:03.700Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-01-12T11:18:03.707Z"}
+{"level":"error","message":"Login error: Invalid credentials","stack":"Error: Invalid credentials\n    at AuthService.login (/home/khaliqtech-ubuntu/Documents/Projects/forAppying/wallet-app/wallet-backend/src/services/auth.service.ts:38:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at login (/home/khaliqtech-ubuntu/Documents/Projects/forAppying/wallet-app/wallet-backend/src/controllers/auth.controller.ts:20:34)","timestamp":"2025-01-12T11:18:07.385Z"}
